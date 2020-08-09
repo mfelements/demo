@@ -1,0 +1,21 @@
+{
+    "data": {
+        "type": "page",
+        "title": "Loading...",
+        "children": [
+            {
+                "type": "module",
+                "url": "./index.js"
+            },
+            {
+                "type": "dynamic",
+                "update": {
+                    "action": "getPage",
+                    "args": [ "main" ]
+                },
+                "default": [ "" ],
+                "interval": 100
+            }
+        ]
+    }
+}
