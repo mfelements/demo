@@ -14,7 +14,7 @@
                     "args": [ "main" ]
                 },
                 "default": [ "" ],
-                "interval": 100
+                "interval": 1000
             }
         ]
     }

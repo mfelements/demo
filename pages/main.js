@@ -6,9 +6,7 @@ module.exports = {
         // test lua module
         {
             type: 'module',
-            url: './index.lua',
-            lang: 'lua',
-            langv: '5.3',
+            url: './index.js',
         },
     ]
 }
