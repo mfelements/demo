@@ -1,6 +1,7 @@
 class Audio{
     constructor(type, src){
         this.type = 'audio';
+        this.stream = true;
         this.sources = [ { type, src } ]
     }
 }
