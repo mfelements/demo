@@ -1,7 +1,10 @@
 {
     "data": {
         "type": "page",
-        "title": "Loading...",
+        "title": "Radio ROKS",
+        "themeColor": "#080808",
+        "icon": "https://play.tavr.media/static/image/roks/ROKS_logo_hd.png",
+        "dummy": true,
         "children": [
             {
                 "type": "module",
